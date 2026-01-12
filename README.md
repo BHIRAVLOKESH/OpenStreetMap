@@ -76,7 +76,7 @@ Example:
 
 **Run Locally**
 1. Clone the repository:
-git clone https://github.com/your-username/osm-drawing-app.git
+git clone https://github.com/BHIRAVLOKESH/OpenStreetMap
 2. Install dependencies:
 npm install
 3. Start development server:
