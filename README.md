@@ -4,7 +4,7 @@ A frontend web application built with **React + TypeScript + Leaflet** that allo
 This project was developed as part of a frontend development assignment to showcase **map handling, spatial validation, and clean React architecture**.
 
 **Live Demo**
-[https://stalwart-melba-353927.netlify.app/](https://stalwart-melba-353927.netlify.app/)
+https://magenta-naiad-9cef94.netlify.app/
 
 
 **Features**
