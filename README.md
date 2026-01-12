@@ -1,6 +1,6 @@
 **OpenStreetMap free tiles**
 
-A frontend web application built with **React + TypeScript + Leaflet** that allows users to **draw, manage, and export geometrical shapes** on an OpenStreetMap layer.
+A frontend web application built with **React + TypeScript** that allows users to **draw, manage, and export geometrical shapes** on an OpenStreetMap layer.
 This project was developed as part of a frontend development assignment to showcase **map handling, spatial validation, and clean React architecture**.
 
 **Live Demo**
